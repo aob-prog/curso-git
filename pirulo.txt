@@ -1,4 +1,0 @@
-hola esto
-es una prueba
-para ver si 
-graba los cambios
